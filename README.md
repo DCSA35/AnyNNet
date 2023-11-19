@@ -7,4 +7,6 @@ based on Tsoding Daily (https://www.youtube.com/watch?v=PGSba51aRYU&list=PLpM-Dv
 
 process any fully connected system: arch{numInputs, numNodes of layer i, .... , numOutputs}
 
-linux: gcc main.c -o main -lm               windows: VS (ISO C11)
+linux: gcc main.c -o main -lm  
+
+windows: VS (ISO C11)
